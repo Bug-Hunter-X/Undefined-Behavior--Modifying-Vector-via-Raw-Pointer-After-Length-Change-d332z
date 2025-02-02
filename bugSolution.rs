@@ -1,0 +1,1 @@
+fn main() {    let mut v = vec![1, 2, 3];    // Correct approach: modify the vector directly, or use safe methods.    v[0] = 10;    println!("The first element is: {}", v[0]);} 
